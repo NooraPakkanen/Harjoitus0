@@ -1,2 +1,2 @@
 # Harjoitus0
-Linux palvelimet
+Hei maailma!
